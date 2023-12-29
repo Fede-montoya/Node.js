@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Producto Actualizado",
+    "description": "Descripción actualizada",
+    "price": 29.99,
+    "thumbnail": "ruta/imagen/actualizada.jpg",
+    "code": "XYZ456",
+    "stock": 5,
+    "id": 1
+  },
+  {
+    "id": 3,
+    "title": "Hamburguesa de Cerdo",
+    "description": "Sabrosa hamburguesa de carne de cerdo",
+    "price": 3400.99,
+    "thumbnail": "cerdo_thumbnail.jpg",
+    "code": "CER001",
+    "stock": 30
+  },
+  {
+    "id": 4,
+    "title": "Hamburguesa Vegana",
+    "description": "Hamburguesa vegana con ingredientes frescos",
+    "price": 3700.99,
+    "thumbnail": "vegana_thumbnail.jpg",
+    "code": "VEG001",
+    "stock": 20
+  },
+  {
+    "title": "Nuevo Producto",
+    "description": "Descripción del nuevo producto",
+    "price": 24.99,
+    "thumbnail": "ruta/imagen/nueva.jpg",
+    "code": "ABC123",
+    "stock": 15,
+    "id": 5
+  }
+]
