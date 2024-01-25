@@ -95,7 +95,85 @@ const newProducts = [
         "code": "CER001",
         "stock": 30
     },
-    // Agrega los demás productos de la lista proporcionada aquí...
+    {
+        
+        "title": "Hamburguesa Vegana",
+        "description": "Hamburguesa vegana con ingredientes frescos",
+        "price": 4700.99,
+        "thumbnail": "vegana_thumbnail.jpg",
+        "code": "VEG001",
+        "stock": 20
+      },
+      {
+        "id": 4,
+        "title": "Hamburguesa de pollo",
+        "description": "La mejor hamburguesa de pollo",
+        "price": 4500.99,
+        "thumbnail": "pollo_thumbnail.jpg",
+        "code": "POL123",
+        "stock": 15
+        
+      },
+      {
+       
+        "title": "Hamburguesa de pollo",
+        "description": "La mejor hamburguesa de pollo",
+        "price": 4500.99,
+        "thumbnail": "pollo_thumbnail.jpg",
+        "code": "POL123",
+        "stock": 15   
+      },
+      {
+    
+       "title": "Hamburguesa 4 quesos",
+       "description": "Exquisita hamburguesa con una mezcla decadente de quesos cheddar, suizo, pepper jack y queso azul.",
+       "price": 5100.99,
+       "thumbnail": "4quesos_thumbnail.jpg",
+       "code": "ABC123",
+       "stock": 15   
+     },
+     {
+         "title": "Hamburguesa blue cheese",
+         "description": "Hamburguesa gourmet con queso azul crujiente",
+         "price": 4800.99,
+         "thumbnail": "Bcheese_thumbnail.jpg",
+         "code": "ABC123",
+         "stock": 15   
+       },
+       {
+       
+       "title": "Hamburguesa hawaiana",
+       "description": "Hamburguesa tropical con jugosa carne con piña asada",
+       "price": 5000.99,
+       "thumbnail": "hawaiana_thumbnail.jpg",
+       "code": "ABC123",
+       "stock": 15   
+      },
+      {
+       "title": "Hamburguesa picante",
+       "description": "Hamburguesa con un toque picante",
+       "price": 5000.99,
+       "thumbnail": "picante_thumbnail.jpg",
+       "code": "ABC123",
+       "stock": 15   
+      },
+      {
+       "title": "Hamburguesa ahumada",
+       "description": "Hamburguesa con un sutil sabor ahumado",
+       "price": 5000.99,
+       "thumbnail": "ahumada_thumbnail.jpg",
+       "code": "ABC123",
+       "stock": 15   
+      },
+      {
+       "title": "Hamburguesa de pescado",
+       "description": "Delicada hamburguesa de pescado, con una textura ligera y un sabor fresco del mar.",
+       "price": 5500.99,
+       "thumbnail": "pescado_thumbnail.jpg",
+       "code": "ABC123",
+       "stock": 10   
+      }
+      
 ];
 
 try {
