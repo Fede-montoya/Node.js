@@ -76,7 +76,7 @@ class ProductManager {
     }
 }
 
-const productManager = new ProductManager('../json/products.json');
+const productManager = new ProductManager('../../json/products.json');
 
 const newProducts = [
     {
